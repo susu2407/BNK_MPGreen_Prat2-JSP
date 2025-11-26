@@ -1,1 +1,1 @@
-# MPGreen_JSP# Backup
+# 그린대학교 홈페이지
